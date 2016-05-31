@@ -7,4 +7,6 @@ nice to work with git hub code repository
 
 i have done changes using local computer folder
 
-yahoo testing completed
+yahoo testing completed.
+
+I have done change, but i don't want to include while commit the changes to git hub
